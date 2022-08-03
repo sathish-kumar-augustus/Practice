@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T20:02:55 IST" name="Default suite" finished-at="2022-05-18T20:13:11 IST" duration-ms="616222">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T20:02:55 IST" name="Default test" finished-at="2022-05-18T20:13:11 IST" duration-ms="616222">
+      <class name="com.test.user.AllScenarios">
+        <test-method is-config="true" signature="reference()[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:02:54 IST" name="reference" finished-at="2022-05-18T20:02:55 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reference -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:02:56 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:03:48 IST" duration-ms="52296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Diet_Formulation, TextMessage=Diet Formulation}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:03:48 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:04:43 IST" duration-ms="54896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Diet_Preparation, TextMessage=Diet Preparation}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:04:43 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:05:11 IST" duration-ms="28455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Diet_Sheets, TextMessage=Diet Sheets}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:05:11 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:05:45 IST" duration-ms="33916" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_All_System_Requests, TextMessage=All System Requests}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:05:45 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:06:12 IST" duration-ms="26638" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Diet_Management_Request, TextMessage=Diet Management Request}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:06:12 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:06:35 IST" duration-ms="23471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_My_Notifications, TextMessage=My Notifications}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:06:35 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:07:08 IST" duration-ms="32755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_My_Requests, TextMessage=My Requests}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:07:08 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:07:29 IST" duration-ms="21161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Nutrition_Warehouse_Issue_Sheets, TextMessage=Nutrition Warehouse Issue Sheets}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:07:29 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:07:52 IST" duration-ms="22999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Nutrition_Warehouse_ Pickup_Requests, TextMessage=Nutrition Warehouse Pickup Requests}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:07:52 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:08:47 IST" duration-ms="55335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Feed_Nutrient_Data, TextMessage=Feed Nutrient Data}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:08:47 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:09:39 IST" duration-ms="51708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Nutrient_Data_Upload, TextMessage=Nutrient Data Upload}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:09:39 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:10:24 IST" duration-ms="44449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Taxa_Energy_Requirements, TextMessage=Taxa Energy Requirements}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:10:24 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:11:17 IST" duration-ms="53377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Taxa_Nutrient_Requirements, TextMessage=Taxa Nutrient Requirements}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:11:17 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:11:39 IST" duration-ms="21842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Diet_Management_Report, TextMessage=Diet Management Report}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:11:39 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:12:04 IST" duration-ms="24701" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Inventory_Item_And_Feed_Type_Mapping, TextMessage=Inventory Item And Feed Type Mapping}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:12:04 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:12:27 IST" duration-ms="23029" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Inventory_Report, TextMessage=Inventory Report}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:12:27 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:12:48 IST" duration-ms="21817" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Notification_Report, TextMessage=Notification Report}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.user.AllScenarios@12aba8be]" started-at="2022-05-18T20:12:48 IST" name="RUNALL" data-provider="TestData" finished-at="2022-05-18T20:13:11 IST" duration-ms="22763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=SanDiegoZoo_Nutrient_Data_Report, TextMessage=Nutrient Data Report}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@78c1a023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+      </class> <!-- com.test.user.AllScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
