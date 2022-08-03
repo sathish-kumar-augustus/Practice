@@ -5,6 +5,8 @@ import org.openqa.selenium.By;
 import com.BasePackage.Base_Class;
 
 public class Diet_Management_Report extends Base_Class {
+	
+	//git clone successful will try push...
 
 	private static By Reports = By.xpath("//span[text()='Reports']");
 	private static By DietManagementReport = By.xpath("//a[text()='Diet Management Report']");
